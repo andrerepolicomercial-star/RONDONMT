@@ -1,0 +1,1 @@
+RONDONMT PWA - Envie index.html, manifest.webmanifest, sw.js e a pasta icons para a raiz do repositorio GitHub RONDONMT. Nao apague outros arquivos. Aguarde a publicacao, atualize a pagina no Chrome e tente Instalar app. O acesso aos dados requer internet e login Firebase.
