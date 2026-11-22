@@ -1,0 +1,5 @@
+RONDONMT - PACOTE DE ICONES E SITE
+Icone do aplicativo: imagem original enviada, apenas redimensionada.
+Favicon do PC: desenho simplificado de barras e seta para maior nitidez.
+ATENCAO: index.html foi recuperado de uma versao anterior de 115 KB. Faça backup do index atual antes de substituir para nao perder modificacoes recentes.
+Substitua os arquivos na raiz do repositorio GitHub RONDONMT e a pasta icons. Aguarde publicacao. Limpe cache ou reinstale PWA.
